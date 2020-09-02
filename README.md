@@ -1,4 +1,4 @@
-#### 🔥 V2 is in the making...!
+#### [🔥 V2 is in the making...!](https://github.com/safrazik/file-agent)
 
 # Vue File Agent
 
