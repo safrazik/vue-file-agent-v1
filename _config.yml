@@ -52,5 +52,3 @@ exclude:
 
 sass:
     sass_dir: website/assets/_scss
-
-theme: jekyll-theme-cayman
