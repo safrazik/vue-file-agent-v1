@@ -114,7 +114,7 @@
             <div class="custom-control custom-checkbox mt-1">
               <input type="checkbox" class="custom-control-input" id="advanced-demo-sortable" v-model="sortable" />
               <label class="custom-control-label" for="advanced-demo-sortable"
-                >:sortable (<a href="https://safrazik.github.io/vue-file-agent/docs/#sortable">Docs</a>)</label
+                >:sortable (<a href="https://safrazik.github.io/vue-file-agent-v1/docs/#sortable">Docs</a>)</label
               >
             </div>
 
@@ -130,7 +130,7 @@
             <div class="custom-control custom-checkbox mt-1">
               <input type="checkbox" class="custom-control-input" id="advanced-demo-resumable" v-model="resumable" />
               <label class="custom-control-label" for="advanced-demo-resumable"
-                >:resumable (<a href="https://safrazik.github.io/vue-file-agent/docs/#resumable">Docs</a>)</label
+                >:resumable (<a href="https://safrazik.github.io/vue-file-agent-v1/docs/#resumable">Docs</a>)</label
               >
             </div>
           </div>

@@ -280,8 +280,8 @@ Demo 1. Preloading Existing Files (<a target="_blank" href="https://codepen.io/s
               "width": 640,
               "height": 360
             },
-            "url": "https://safrazik.com/vue-file-agent/website/assets/files/Golf.mp4",
-            "videoThumbnail": "https://safrazik.com/vue-file-agent/website/assets/files/Golf-thumb.jpg",
+            "url": "https://safrazik.com/vue-file-agent-v1/website/assets/files/Golf.mp4",
+            "videoThumbnail": "https://safrazik.com/vue-file-agent-v1/website/assets/files/Golf-thumb.jpg",
             "imageColor": [66, 62, 45]
           },
           {
@@ -415,7 +415,7 @@ Fired after file is deleted. If the file fails to be deleted, `upload:delete:err
 - `uploadUrl`: the url where a `POST` request will be sent
 - `uploadHeaders`: a key value pair of custom headers. e.g: `{'Authorization': 'MyCustomAuthorizationHeader'}`
 - `fileRecords`: array of files data to upload
-- `createFormData`: [Optional] create a custom FormData instance for upload [See Example](https://github.com/safrazik/vue-file-agent/issues/12)
+- `createFormData`: [Optional] create a custom FormData instance for upload [See Example](https://github.com/safrazik/file-agent/issues/12)
 - `uploadConfig`: [Optional] configure the [`XMLHttpRequest`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) object to be sent to server
 
 Trigger the default upload action.

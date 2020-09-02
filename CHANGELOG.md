@@ -2,7 +2,7 @@
 
 ### 1.7.1
 
-- [BREAKING CHANGE] Added support for `beforedelete` event and `deleteFileRecord` method. [See Usage](https://safrazik.com/vue-file-agent/docs/#beforedelete)
+- [BREAKING CHANGE] Added support for `beforedelete` event and `deleteFileRecord` method. [See Usage](https://safrazik.com/vue-file-agent-v1/docs/#beforedelete)
 
 ### 1.7.0 Elegant Euphonia
 
@@ -91,7 +91,7 @@
 - Added new slots `file-preview` and `file-preview-new` #10
 - Made CSS modular and added SCSS support #11
 - Added support for custom `FormData` #12
-- Added [Gmail Inspired Demo](https://safrazik.github.io/vue-file-agent/docs/#gmail-inspired-demo) in Docs page
+- Added [Gmail Inspired Demo](https://safrazik.github.io/vue-file-agent-v1/docs/#gmail-inspired-demo) in Docs page
 - [BREAKING CHANGE] `Raw FileData.name` is a function now.
 
 ### 1.1.2
