@@ -21,7 +21,7 @@ baseurl: "/vue-file-agent-v1" # the subpath of your site, e.g. /blog
 url: http://safrazik.github.io/vue-file-agent-v1 # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: safrazik
 github_username:  safrazik
-dist_baseurl: "/vue-file-agent/dist"
+dist_baseurl: "/vue-file-agent-v1/dist"
 activity_feed: true
 google_analytics: true
 
